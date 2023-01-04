@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CollectionsExample</string>
+    <string name="first_list">First List!</string>
+    <string name="second_list">Second List</string>
+</resources>
